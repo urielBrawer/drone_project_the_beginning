@@ -1,0 +1,24 @@
+Unser Motor FPV Raving Motor 2206 2500 kV ccw braucht 
+	2-4S LiPo
+	20-40A esc <- hängt noch von propeller ab. für die grösseren probeller bis 47A
+
+esc:
+https://www.modellmarkt24.ch/pi/Modellflugzeuge1/Antriebe-Modellflugzeuge/Regler/Brushless-ESC-Regler/hobbywing-skywalker-v2-50a-3-6s-6a-bec.html?von_suchresultat=true
+
+Arduino nano:
+	https://www.brack.ch/arduino-entwicklerboard-arduino-nano-495244?utm_source=google&utm_medium=cpc&utm_campaign=%21cc-pssh%21l-d%21e-g%21t-pla%21t2-css%21k1-it%21z-it_multimedia_pmax&utm_term=&adgroup_id=&ad_position=&ad_type=pla&campaign_id=18732681987&gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXbreuU8yMLNls1NNtJQb9fIpaP2UYgwC99WOArVP-cR2iE5XWbFvhAaAuxpEALw_wcB
+
+lipo:
+	https://www.brack.ch/tattu-rc-akku-lipo-2300-mah-14-8-v-75c-1488573?utm_source=google&utm_medium=cpc&utm_campaign=%21cc-pssh%21l-d%21e-g%21t-pla%21t2-css%21k1-bh%21z-baumarkt_hobby_pmax&utm_term=&adgroup_id=&ad_position=&ad_type=pla&campaign_id=19707784704&gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXawbs47ClI5GIMvkRZo0DZZDFT9aQ--R8ABbzk4T6mIx7EBxJSI_t8aAhj4EALw_wcB&hc_fcv=ZyPDrwKYtT5nS1Cv~NmD2fmk1zzw-fE1Ezzzzzzzz~NmD2fmk1zzw-fE1Ezzzzzzzz
+
+pdb:
+	https://www.rc-shop.ch/flug-elektronik-2245/emax-power-distribution-board-pdb-0512-5v-12v-v2-237579
+
+ESC - Motor:
+	Strom ist wichtig. Motor hat fixe Anforderung. dabei soll esc nicht fritiert warden.
+
+ESC - flight_controller:
+	Arduino nano
+
+bdp: 
+	verteilt Strom von Batterie auf alle Komponenten, i.e. einfach 1 zu n.
