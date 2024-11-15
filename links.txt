@@ -1,0 +1,10 @@
+Helpful links 
+
+
+# Soldering
+https://www.youtube.com/watch?v=fdTDTuBb3pQ
+
+# General quadcopter setup
+https://fpvracing.ch/de/content/10-quadcopter-bauanleitung
+https://hackmd.io/@giulionyakunga/r1ImfxBOF
+
