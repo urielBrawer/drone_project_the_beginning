@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=fdTDTuBb3pQ
 https://fpvracing.ch/de/content/10-quadcopter-bauanleitung
 https://hackmd.io/@giulionyakunga/r1ImfxBOF
 
+# First steps
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
